@@ -8,19 +8,23 @@ footer: CC0 1.0 Universal
 
 This is a collaborative project for backing up, collecting, and displaying New Ithkuil example phrases and sentences.
 
-Please use Markdown format (Click [here](https://theme-hope.vuejs.press/guide/markdown/) to learn about extended syntax) and refer to the following example format.
+If you want to update and add content, please note the following conventions.
 
-It is best to use SVG format for images. Please name the script image its relevant grammatical category **abbreviation + hyphen-minus + number**.
+* Use Markdown format (Click [here](https://theme-hope.vuejs.press/guide/markdown/) to learn about extended syntax) and refer to the following example format.
+
+* It is best to use SVG format for images. Please name the script image its relevant grammatical category **abbreviation + hyphen-minus + number**.
 
 The md files are located at /guide/, and image files at /.vuepress/public/image/.
 
-Please write two lines of code for each image, separated by one line. This is to adapt to light/dark mode switching.
+* Please write two lines of code for each image, separated by one line. This is to adapt to light/dark mode switching.
 
 ``` markdown
 ![](/assets/image/abbr-num.svg#light)
 
 ![](/assets/image/abbr-num.svg#dark) {.inverted}
 ```
+
+* `<abbr>...</abbr>` tags mark grammatical category abbreviations (except in glossing texts)
 
 Note that every commit triggers Github Action.
 

@@ -68,7 +68,6 @@ Conversion notes:
 <p><strong>POSSESSIVE</strong></p>
 <p><strong>Wezvwaušburdóu uzxritļa sai.</strong></p>
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image1.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S2-‘Vulpes.fox’-GEO₂/2-REA₁/9-ADM S3-‘handle.food.with.ladle’-OBJ-RPV-THM 2m-POS</p>
 <p><em>‘Be careful, your ladle is actually a fennec.’</em></p>
 <p>Updated to “uzxritļa” for <em>fork</em></p>
@@ -76,7 +75,6 @@ Conversion notes:
 <p><strong>PROPRIETIVE</strong></p>
 <p><strong>Wütrái urmaol lauyuž!</strong></p>
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image2.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S3.CPT-‘depart.via.linear.motion’-DIR S3-‘house’-AMG-THM 1m-PRP-IND-2m.DET</p>
 <p><em>‘Get out of my house!’</em></p>
 <p>Checked</p>
@@ -92,14 +90,12 @@ Conversion notes:
 <p><strong>ATTRIBUTIVE</strong></p>
 <p><strong>Ivspaläčpiahwá hlaiţpwí-čpřaulwä bzgadëuhe žeu.</strong></p>
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image3.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S2.CPT-‘placate/appease’-DBV₁/2-PMP.SUB-OBS T1-S1.G-‘snail/slug’-CPS—S1-‘portion.of.pie’-CTE.FNC-ASO.N-INS S1-‘melancholy/malaise’-PRX-RCT-ABS 2m.DET-ATT</p>
 <p>_‘I have the impression that your recurrent melancholy may finally be appeased by snail pie.’ _[dessert is personally relevant, not necessarily its ingredients]</p>
 <p>Checked</p>
 <p><strong>PRODUCTIVE</strong></p>
 <p><strong>Waẓmmú wolařti eňtyarka žëu.</strong></p>
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image4.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S1​-‘enjoy’​-INF S0​-‘human.being’​-INL<sub>1</sub>​​/1​-AFF S2​-‘written.page’​-COA.MSC 2m.DET​-PDC</p>
 <p><em>‘Nobody enjoys your book.’</em></p>
 <p>Checked</p>
@@ -127,7 +123,6 @@ Conversion notes:
 <p><strong>INTERDEPENDENT</strong></p>
 <p><strong>Üsleluřksá li aččazwéullüřvëi ernzila liu.</strong></p>
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image5.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S3.CPT-‘reason’-CSV-CRD₁/9-OBS 1m-AFF S1-‘naïve/foolish’-ATT₂-{Ca}-CNQ₁/8-STM\FRA S2-‘friend’-OBJ 1m-IDP</p>
 <p><em>‘I have come to the sole conclusion that my friend is a complete fool.’</em></p>
 <p>Checked</p>
@@ -147,7 +142,6 @@ Conversion notes:
 <p><em>‘It’s a good thing I remember we have this bowl of lithium ion batteries!’</em></p>
 <p>Checked</p>
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image6.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p><strong>Ksk etxuló kšilu habḑdefcüřřui-avskleţskoë</strong></p>
 <p>VEX S2-’eat’-DYN-CVN ‘clown’-OBJ-IND S1-’Bambuseae’-CSV-SPP₁/8-G/RPV-PAR—S1-’box’-CSV-DDS/ICP-CSM</p>
 <p><em>‘They say that the clown is eating the beginnings of two dissimilar boxes of imaginary bamboo stems. How annoying!’</em></p>
@@ -159,7 +153,6 @@ Conversion notes:
 <p><strong>PURPOSIVE</strong></p>
 <p><strong>Oxčùinļänřořẓuihmú rrakţaussäčhä wudkwie.</strong></p>
 <p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image7.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S0-‘kill’-DYN.FNC-ASO-AGN₁/2-SVS₁/7-FLC.SPC-INF S1-‘cat’-MAT₂/2-DPX-AFT₁/2-INS S3-‘cyberweapon’-PUR</p>
 <p><em>‘A cute pair of kittens specially designed as a cyberweapon may be highly lethal on a global scale.’</em></p>
 <p>[literally: There may be an act of causing death, with the anticipated resulting effect to a high degree, on a quasi-global scale, with a random pattern of both punctual and longer occurrences, I reason, via a cute kitten pair specially designed as a cyber-weapon.]</p>
@@ -233,7 +226,6 @@ Conversion notes:
 <p>Not checked</p>
 <p><strong>FUNCTIVE</strong></p>
 <p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image8.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p><strong>Wamá kšilu wiamfmügao.</strong></p>
 <p>S1-‘speak’-OBS S1-'clown'-OBJ-IND S1.N-‘act.of.assurance’-EXN₁/8-FUN</p>
 <p><em>‘The clown speaks in an assured manner.’</em></p>
@@ -255,7 +247,6 @@ Conversion notes:
 <p>Not checked</p>
 <p><strong>Ňňs äsmyolái eňtyarfrüöřţat yùallmeo.</strong></p>
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image9.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>SOL S1.CPT-‘sort’-DYN.CSV-DIR S2-‘written.page’-COA.MDC.G-VAR.MDS-DCD₁/1 S3.A-‘personality’-CLA</p>
 <p><em>‘Please sort this mess of books by personality.’</em></p>
 <p>Not checked</p>
@@ -266,7 +257,6 @@ Conversion notes:
 <p>Not complete</p>
 <p><strong>Llč öwuo irţrunļá wufskye sowaub emrädeö.</strong></p>
 <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image10.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>TRP PCS-3:DET S2.CPT-‘watering/irrigation’-DYN-ASO-OBS S0-‘Mammillaria’-ABS 2m-ERG-PRP-ma.DET S2-‘dying/terminal.state’-CTE-PRX-RSL</p>
 <p><em>‘Oh, no! You just watered his pincushion cactus to death!’</em></p>
 <p>Changed FSK to FSKY</p>
@@ -286,7 +276,6 @@ Conversion notes:
 <p>Not complete</p>
 <p><strong>Çmédöe warkwira werrati hrui wezvetünëi umžoldoiwá me'u thuxič.</strong></p>
 <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image11.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S1-‘look.of.being.in.non-volitional/affective state’-CSV-PRX-CON\FRA S1-‘romantic.love’-NEG₁/4 S2-‘wildcat’-DCD₁/1-AFF CCV S2-‘gray.wolf’-DCD₁/3-TPF₁/8-STM S3-‘act.of.pursuing.sexual/romantic.relationship’-DYN.CSV-ASO.PRX-ICS-OBS ma-TRM Rdp-IND-SWR₁/4</p>
 <p><em>‘Even though this wildcat outwardly manifests the signs of feeling no romantic love towards that gray wolf yonder, the gray wolf insists on courting him.’</em></p>
 <p>Not checked</p>
@@ -298,7 +287,6 @@ Conversion notes:
 <p>Not checked</p>
 <p><strong>Hu iļfunļödçái lu twâdloe arţilökšit hui.</strong></p>
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image12.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>CGT S2.CPT-‘wake/regain.consciousness’-DYN-ASO-OPL₁/6-DIR 1m-IND S1-‘dream’-CTE-PRX.RPV-AVR\FRA S1-‘annoying/vexing/irritating’-OBJ-BEH₁/6-DCD₁/4</p>
 <p>[A silent thought]_ ‘I should wake up quickly lest I dream of the irritating rascal.’_</p>
 <p>Not checked</p>
@@ -370,7 +358,6 @@ Conversion notes:
 <p>Checked</p>
 <p><strong>Ulyál ažkhakcailloilksi’i hle’e dižõ</strong></p>
 <p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image13.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S3-‘sculpture’-OBS S1-‘brown.mustard.plant’-EPP₂/1-{Ca}-DFB₂/7-CPS COR-:Dijon:</p>
 <p><em>‘The sculpture is made of Dijon mustard.’</em></p>
 <p>Not checked</p>
@@ -382,7 +369,6 @@ Conversion notes:
 <p><strong>COMITATIVE</strong></p>
 <p><strong>Aţskrodëihá wogmu wokstwë'i.</strong></p>
 <p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image14.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S1-‘play.game.of.Go’-DYN.CSV-PRX-CPL-OBS S0-‘elephant/mammoth’-IND S0-‘fungus/mushroom’-COM</p>
 <p><em>‘An elephant is playing Go with a mushroom.’</em></p>
 <p>Not checked</p>
@@ -500,7 +486,6 @@ Conversion notes:
 <p>Checked</p>
 <p><strong>Wešbá waikvřë’ixčövš eḑḑniröḑbi’a řëu</strong></p>
 <p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image15.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S2-‘tough.texture’-OBS S1.G-‘bowling.pin’-CK1₁/5-{Ca}-FMS₁/6 S2-‘prepared.pudding/custard’-OBJ-G-S05₁/6-LOC 1m.DET-PDC</p>
 <p><em>‘The chunks of deep-fried bowling pin throughout my pudding have a tough texture.’</em></p>
 <p>Checked</p>
@@ -516,13 +501,11 @@ Conversion notes:
 <p><strong>ABLATIVE</strong></p>
 <p><strong>Hlařpplaukcoë-etxu’ju kšilolwi'ö egugesxiofmá amvratešu.</strong></p>
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image16.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>T1-S1-‘peanut.plant’-EPP₂/2-CSM—S2-‘eat’-DYN-A-RLT S1-'clown'-OBJ-ERG-ABL S2-‘run’-DYN-ICP-ICR₁/3-VEL₃/3-OBS S1-‘giraffe’-MSS-SEX₁/3-IND</p>
 <p><em>‘A herd of male giraffes starts running (slowly, gradually picking up speed) from the peanut-shell-eating clown.’</em></p>
 <p>Checked</p>
 <p><strong>Ämôlö'e ünţtohra weře'ö kšilu yuäšḑahma'a hrui emtrirane aḑçukpëiggawá arţsili'ö wurmoi mau lu.</strong></p>
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image17.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>S1.CPT-‘linguistic utterance for communication’-DYN.OBJ-PCR\FRA S3.CPT-‘conclude.thesis’-DYN-CCS S2-’week’-PRO S1-'clown'-OBJ-IND S1.A-‘remove/eliminate’-CCQ-PRN CCV S2-‘hat.as.fashion’-G-TPF₁/1-ABS S1-‘jumping/leaping/springing.forth’-DYN-EFT₁/5-ICP-RTR-OBS S1-‘top/roof’-OBJ-ABL S3-’house’-OGN ma-PRP 1m-IND</p>
 <p><em>‘After listening to the clown’s week-long thesis on getting rid of fashionable headwear, I’ve started attempting to jump off the roof of his house.’</em></p>
 <p>Checked</p>
@@ -533,7 +516,6 @@ Conversion notes:
 <p>Checked</p>
 <p><strong>Hlalžeê-äpļúli’ckoi xmu hluséi-yeksmanu’ö wayoumiň hü walfupţahrû pçi.</strong></p>
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-<figure><img src="@source/guide/images/image18.png" alt="alt_text" tabindex="0" loading="lazy"><figcaption>image_tooltip</figcaption></figure>
 <p>T1-S1-’face’-ORI—S1.CPT-‘turn/rotate’-DYN-DPC₁/4-DEP\FRA [N+ma]-IND T1-S3-‘[geographic.carrier]’-ESS—S2.PRX-‘province’-TPF₁/1-IRL Wyoming CAR_END S1-‘luck/fortune’-EXD₁/9-ASM-ITU [ma.BEN+N]-AFF</p>
 <p><em>‘You will have more and more good luck if you turn to face Wyoming.’</em></p>
 <p>Checked</p>
