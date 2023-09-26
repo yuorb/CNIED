@@ -112,7 +112,7 @@ Link:
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+
 
 
 S2-‘Vulpes.fox’-GEO₂/2-REA₁/9-ADM S3-‘handle.food.with.ladle’-OBJ-RPV-THM 2m-POS
@@ -132,7 +132,7 @@ Stem 3 is actually a ladle, Stem 1 is fork - Wilh3lm
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.png "image_tooltip")
+
 
 
 S3.CPT-‘depart.via.linear.motion’-DIR S3-‘house’-AMG-THM 1m-PRP-IND-2m.DET
@@ -168,7 +168,7 @@ Checked
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.png "image_tooltip")
+
 
 
 S2.CPT-‘placate/appease’-DBV₁/2-PMP.SUB-OBS T1-S1.G-‘snail/slug’-CPS—S1-‘portion.of.pie’-CTE.FNC-ASO.N-INS S1-‘melancholy/malaise’-PRX-RCT-ABS 2m.DET-ATT
@@ -186,7 +186,7 @@ Checked
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.png "image_tooltip")
+
 
 
 S1​-‘enjoy’​-INF S0​-‘human.being’​-INL<sub>1</sub>​​/1​-AFF S2​-‘written.page’​-COA.MSC 2m.DET​-PDC
@@ -246,7 +246,7 @@ Verb was missing final stress, added- Wilh3lm
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.png "image_tooltip")
+
 
 
 S3.CPT-‘reason’-CSV-CRD₁/9-OBS 1m-AFF S1-‘naïve/foolish’-ATT₂-{Ca}-CNQ₁/8-STM\FRA S2-‘friend’-OBJ 1m-IDP
@@ -290,7 +290,7 @@ Checked
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image6.png "image_tooltip")
+
 
 
 **Ksk etxuló kšilu habḑdefcüřřui-avskleţskoë**
@@ -318,7 +318,7 @@ Checked
 <p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image7.png "image_tooltip")
+
 
 
 S0-‘kill’-DYN.FNC-ASO-AGN₁/2-SVS₁/7-FLC.SPC-INF S1-‘cat’-MAT₂/2-DPX-AFT₁/2-INS S3-‘cyberweapon’-PUR
@@ -470,7 +470,7 @@ Not checked
 <p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image8.png "image_tooltip")
+
 
 
 **Wamá kšilu wiamfmügao.**
@@ -518,7 +518,7 @@ Not checked
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image9.png "image_tooltip")
+
 
 
 SOL S1.CPT-‘sort’-DYN.CSV-DIR S2-‘written.page’-COA.MDC.G-VAR.MDS-DCD₁/1 S3.A-‘personality’-CLA
@@ -544,7 +544,7 @@ Not complete
 <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image10.png "image_tooltip")
+
 
 
 TRP PCS-3:DET S2.CPT-‘watering/irrigation’-DYN-ASO-OBS S0-‘Mammillaria’-ABS 2m-ERG-PRP-ma.DET S2-‘dying/terminal.state’-CTE-PRX-RSL
@@ -588,7 +588,7 @@ Not complete
 <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image11.png "image_tooltip")
+
 
 
 S1-‘look.of.being.in.non-volitional/affective state’-CSV-PRX-CON\FRA S1-‘romantic.love’-NEG₁/4 S2-‘wildcat’-DCD₁/1-AFF CCV S2-‘gray.wolf’-DCD₁/3-TPF₁/8-STM S3-‘act.of.pursuing.sexual/romantic.relationship’-DYN.CSV-ASO.PRX-ICS-OBS ma-TRM Rdp-IND-SWR₁/4
@@ -616,7 +616,7 @@ Not checked
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image12.png "image_tooltip")
+
 
 
 CGT S2.CPT-‘wake/regain.consciousness’-DYN-ASO-OPL₁/6-DIR 1m-IND S1-‘dream’-CTE-PRX.RPV-AVR\FRA S1-‘annoying/vexing/irritating’-OBJ-BEH₁/6-DCD₁/4
@@ -764,7 +764,7 @@ Checked
 <p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image13.png "image_tooltip")
+
 
 
 S3-‘sculpture’-OBS S1-‘brown.mustard.plant’-EPP₂/1-{Ca}-DFB₂/7-CPS COR-:Dijon:
@@ -792,7 +792,7 @@ Not complete
 <p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image14.png "image_tooltip")
+
 
 
 S1-‘play.game.of.Go’-DYN.CSV-PRX-CPL-OBS S0-‘elephant/mammoth’-IND S0-‘fungus/mushroom’-COM
@@ -1032,7 +1032,7 @@ Checked
 <p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image15.png "image_tooltip")
+
 
 
 S2-‘tough.texture’-OBS S1.G-‘bowling.pin’-CK1₁/5-{Ca}-FMS₁/6 S2-‘prepared.pudding/custard’-OBJ-G-S05₁/6-LOC 1m.DET-PDC
@@ -1068,7 +1068,7 @@ Checked
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image16.png "image_tooltip")
+
 
 
 T1-S1-‘peanut.plant’-EPP₂/2-CSM—S2-‘eat’-DYN-A-RLT S1-'clown'-OBJ-ERG-ABL S2-‘run’-DYN-ICP-ICR₁/3-VEL₃/3-OBS S1-‘giraffe’-MSS-SEX₁/3-IND
@@ -1084,7 +1084,7 @@ Checked
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image17.png "image_tooltip")
+
 
 
 S1.CPT-‘linguistic utterance for communication’-DYN.OBJ-PCR\FRA S3.CPT-‘conclude.thesis’-DYN-CCS S2-’week’-PRO S1-'clown'-OBJ-IND S1.A-‘remove/eliminate’-CCQ-PRN CCV S2-‘hat.as.fashion’-G-TPF₁/1-ABS S1-‘jumping/leaping/springing.forth’-DYN-EFT₁/5-ICP-RTR-OBS S1-‘top/roof’-OBJ-ABL S3-’house’-OGN ma-PRP 1m-IND
@@ -1110,7 +1110,7 @@ Checked
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image18.png "image_tooltip")
+
 
 
 T1-S1-’face’-ORI—S1.CPT-‘turn/rotate’-DYN-DPC₁/4-DEP\FRA [N+ma]-IND T1-S3-‘[geographic.carrier]’-ESS—S2.PRX-‘province’-TPF₁/1-IRL Wyoming CAR_END S1-‘luck/fortune’-EXD₁/9-ASM-ITU [ma.BEN+N]-AFF
