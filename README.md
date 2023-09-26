@@ -3,7 +3,7 @@ icon: home
 title: CNIED
 
 copyright: false
-footer: CC0 1.0 Universal
+footer: Attribution 4.0 International licensed
 ---
 
 This is a collaborative project for backing up, collecting, and displaying New Ithkuil example phrases and sentences.
